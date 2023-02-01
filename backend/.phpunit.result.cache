@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\UrlTest::testCreateUrlPost":4,"Tests\\Feature\\UrlTest::testShowUrls":4},"times":{"Tests\\Feature\\UrlTest::testCreateUrlPost":0.072,"Tests\\Feature\\UrlTest::testShowUrls":0}}
